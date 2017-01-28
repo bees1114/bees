@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lgcodechallenger2015_2", "lgcodechallenger2015_2\lgcodechallenger2015_2.vcxproj", "{C065104E-F931-47B6-89F0-725DC53C725B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C065104E-F931-47B6-89F0-725DC53C725B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C065104E-F931-47B6-89F0-725DC53C725B}.Debug|Win32.Build.0 = Debug|Win32
+		{C065104E-F931-47B6-89F0-725DC53C725B}.Release|Win32.ActiveCfg = Release|Win32
+		{C065104E-F931-47B6-89F0-725DC53C725B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int T;
+	int N;
+	int b;
+	int mock;
+	int namerge;
+	int i;
+	int test_case;
+	//FILE *file = fopen("sample_input.txt", "r");
+	setbuf(stdout,NULL);
+	scanf("%d", &T);
+		
+	if(T>=1 && T<=100) {
+		for(test_case = 1; test_case <= T; test_case++) {
+			scanf("%d", &N);
+			if(N>=1 && N<=1000000000) {
+				for(b = 2; b <= N; b++) {
+					mock = N;
+					namerge = mock%b;
+					i = 0;
+					while(mock >=b) {
+						mock = mock/b;
+						if(namerge != (mock%b)) {
+							i = 1;
+							break;	
+						}
+					}
+					if(i == 0)
+						break;
+					
+				}
+				printf("Case #%d\n", test_case);
+				printf("%d\n", b);
+			}
+		}
+	}
+	return 0;
+}

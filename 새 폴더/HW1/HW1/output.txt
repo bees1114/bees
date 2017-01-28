@@ -1,0 +1,12 @@
+Addition
+4 6
+1 5
+2 3
+11 0
+Multiplication
+4 11
+2 8
+32 6
+3 5
+16 3
+24 0

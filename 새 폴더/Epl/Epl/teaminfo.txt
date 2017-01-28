@@ -1,0 +1,10 @@
+ManchesterUnited 3 2 1 0 5 2 7
+Liverpool 3 3 0 0 10 1 9
+Arsenal 3 1 1 1 5 4 4
+ManchesterCity 3 2 0 1 6 2 6
+Tottenham 0 0 0 0 0 0 0
+Everton 0 0 0 0 0 0 0
+Southampton 0 0 0 0 0 0 0
+Chelsea 0 0 0 0 0 0 0
+SwanseaCity 0 0 0 0 0 0 0
+AstonVilla 0 0 0 0 0 0 0
